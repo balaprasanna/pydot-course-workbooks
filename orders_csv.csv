@@ -1,0 +1,6 @@
+order_id,customer_id,order_item,quantity,price,subtotal,ordered_time
+11,1000,FairPrice Bread - Wholemeal,1,1.75,1.75,2019-12-02
+12,1000,Italy Ambrosia Apple,1,2.95,2.95,2020-01-03
+13,1001,Tiger Can Beer - Lager,1,48.5,48.5,2020-01-04
+14,1001,Milo Chocolate Malt UHT Packet Drink,1,11.5,11.5,2020-01-05
+15,1002,Coca-Cola Can Drink - Classic,2,16.95,33.9,2020-01-06
