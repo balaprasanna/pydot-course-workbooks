@@ -15,6 +15,7 @@ TOKEN = "8dasklkdsaghdsdasdasdsa"
 ------------------------------------------
 
 STEP 2: Install dependencies
+pip install botogram
 pip install balautil
 ------------------------------------------
 STEP 3: 
